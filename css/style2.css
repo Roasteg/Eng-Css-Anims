@@ -16,6 +16,7 @@ body{
     border-radius: 50%;
     border: 2px solid black;
     box-sizing: border-box;
+    margin: auto;
     position: relative;
     animation-duration: 3s;
 }
